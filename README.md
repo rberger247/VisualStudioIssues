@@ -29,7 +29,7 @@ Issues and how I resolved them
             
    ## Adding angularCli Functionality to Generate Componenets
     * ng new in a temporary folder 
-    * copy AngularCli.Json, polyfill.ts , app , tsConfig.app.Json and include in project
+    * copy AngularCli.Json, polyfill.ts , tsConfig.app.Json and include in project
     
     ----Note: I am not yet able to use ng serve properly (i.e many things dont load properly)
    
