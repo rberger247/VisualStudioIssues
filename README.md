@@ -17,6 +17,14 @@ Issues and how I resolved them
    
       'app': '/src/app',
       
+      }
+      
+      
+    *  Temporary solution if you get error in withrjxs and typescript compatibility issues
+           add the following code      In tsConfig.json in compiler Options:
+      
+            "noStrictGenericChecks": true
+      
       
 
 
