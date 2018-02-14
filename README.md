@@ -2,11 +2,11 @@
 Issues and how I resolved them
 
 
-* using angular 4 in visual studio 2015 asp.net web app
-  Install TypeScript for VisualStudio   for visual studio 2015 -- https://www.microsoft.com/en-us/download/details.aspx?id=48593
- * download angular quickstart https://github.com/angular/quickstart
- * follow steps on https://angular.io/guide/visual-studio-2015
- *   Change the systemjs.config.js to the following 
+* Using angular 4 in visual studio 2015 asp.net web app
+* Install TypeScript for VisualStudio   for visual studio 2015 -- https://www.microsoft.com/en-us/download/details.aspx?id=48593
+* Download angular quickstart https://github.com/angular/quickstart
+* follow steps on https://angular.io/guide/visual-studio-2015
+* Change the systemjs.config.js to the following 
  
     paths: {
      
