@@ -35,7 +35,7 @@ Issues and how I resolved them
    
    
       
-      ### issues with starting Vs 2015 
+     ### issues with starting Vs 2015 
       https://stackoverflow.com/questions/10963241/visual-studio-cannot-open-new-project
 
 
